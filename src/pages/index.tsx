@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
       <div>working good</div>
-
+<p>next js</p>
 
       </main>
     </>
